@@ -42,3 +42,8 @@ Then
 tauri::Builder::default()
 	.manage(arc_db)
 ```
+
+
+# tauri debugging(VScode)
+
+https://tauri.app/v1/guides/debugging/vs-code/
